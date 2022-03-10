@@ -2,8 +2,8 @@
 
 ![Sample button box](https://raw.githubusercontent.com/webstackdev/button-box/main/static/racing-sim-button-box-rotary-encoder.jpg?raw=true)
 
-This project is to use an [Arduino Uno R3](http://store.arduino.cc/products/arduino-uno-rev3) board to support rotary encoders in D-I-Y button boxes.
-These boxes are popular in the racing, flight, and space sim communities because you can tailor
+This project is to use an [Arduino Uno R3](http://store.arduino.cc/products/arduino-uno-rev3) board to support rotary encoders in DIY button boxes.
+These boxes are popular in the racing, flight, trucking, farming, and space sim communities because you can tailor
 the box exactly to your needs and commercial variants are pricey. They're usually built using
 a stock electronics box (available on Amazon or AliExpress) with a laser-cut graphite carbon top
 (those can be ordered from a variety of suppliers) and custom-printed labels.
