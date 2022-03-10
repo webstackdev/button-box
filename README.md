@@ -1,6 +1,6 @@
 # Arduino Rotary Encoder Code for Button Boxes
 
-![Sample button box]](racing-sim-button-box-rotary-encoder.jpg)
+![Sample button box]](https://github.com/webstackdev/button-box/blob/main/racing-sim-button-box-rotary-encoder.jpg?raw=true)
 
 This project is to use an Arduino Uno R3 board to support rotary encoders in D-I-Y button boxes.
 These boxes are popular in the racing, flight, and space sim communities because you can tailor
